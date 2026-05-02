@@ -61,7 +61,7 @@ TOKEN = os.getenv("BOT_TOKEN", "")
 PREFIX = "."
 ALLOWED_GUILDS = {1493430116611653884,}  # add more guild IDs here
 CATMIO_INVITE  = "https://discord.gg/uYhEqpADp"
-DUMPER_PATH = "A7kP9xQ2LmZ4bR1c.lua"
+DUMPER_PATH = "catmio.lua"
 
 MAX_FILE_SIZE = 5 * 1024 * 1024
 DUMP_TIMEOUT = 130  # Must exceed catlogger.lua TIMEOUT_SECONDS (120) to allow proper cleanup
